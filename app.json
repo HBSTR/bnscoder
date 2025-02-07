@@ -1,0 +1,15 @@
+{
+	"name": "BNSCode Plus",
+	"description": "BNSCode Plus",
+	"repository": "https://bnscode.glitch.me",
+	"logo": "https://bnscode.glitch.me",
+	"keywords": [
+		"node",
+		"paste",
+		"pastebin",
+		"haste",
+		"hastebin",
+		"code",
+		"syntax highlighting"
+	]
+}
