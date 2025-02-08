@@ -1,8 +1,8 @@
 {
 	"name": "BNSCode Plus",
 	"description": "BNSCode Plus",
-	"repository": "https://bnscoder.glitch.me",
-	"logo": "https://bnscoder.glitch.me",
+	"repository": "https://bnscoder.netlify.app",
+	"logo": "https://bnscoder.netlify.app",
 	"keywords": [
 		"node",
 		"paste",
