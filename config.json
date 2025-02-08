@@ -1,6 +1,6 @@
 {
 	"host": "localhost",
-	"port": 18013,
+	"port": 8080,
 	"dataPath": "./data",
 	"keyLength": 10,
 	"maxLength": 500000,
